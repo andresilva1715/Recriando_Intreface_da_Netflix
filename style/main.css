@@ -96,3 +96,13 @@ main .container{
 .filme-principal .container{
     width: 70%;
 }
+
+img .box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrossel-filmes{
+    margin-top: 8px;
+}
